@@ -1,0 +1,14 @@
+100,2.6864e-06
+200,1.85833e-05
+300,3.69864e-05
+400,0.000445043
+500,0.000513288
+600,0.00117075
+TEST PARAMETERS
+Number of bloom filters in FBF,3
+Constituent Filter bits, 6250
+Number of hash functions,5
+Refresh Rate,5
+Batch Operations,75
+Invalid check,200000
+

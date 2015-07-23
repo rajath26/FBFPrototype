@@ -1,0 +1,7 @@
+TEST PARAMETERS
+Refresh rate,5
+Constituent Filter bits, 25000
+Number of hash functions,5
+Number of elements,2000
+Invalid check,100000
+

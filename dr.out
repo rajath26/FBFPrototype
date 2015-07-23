@@ -1,0 +1,41 @@
+
+  INFO :: Dynamic resizing experiment
+ ----------------------------------------------------------- 
+ INFO :: Test Execution Info 
+ INFO :: NUMBER OF ELEMENTS: 1000
+ INFO :: INITIAL REFRESH RATE: 7
+ INFO :: BATCH OPERATIONS: 50
+
+ INFO :: NUMBER OF HASHES CHOSEN : 5
+
+ INFO :: TABLE SIZE IN BYTES: 50000
+
+ INFO :: TABLE SIZE CHOSEN : 6250
+  INFO :: 3 constituent bloom filters initialized in the FBF
+  INFO :: FBFs initialized
+ RESULT :: Effective FPR: 0
+
+  INFO :: Starting dynamic resizing thread
+
+  INFO :: Starting the refresh FBF thread
+  INFO :: Refreshed FBF
+ RESULT :: Effective FPR: 0
+ RESULT :: Effective FPR: 0
+ RESULT :: Effective FPR: 9.26862e-08
+ RESULT :: Effective FPR: 9.26862e-08
+ RESULT :: Effective FPR: 9.26862e-08
+ RESULT :: Effective FPR: 2.6864e-06
+ RESULT :: Effective FPR: 2.6864e-06
+ RESULT :: Effective FPR: 2.6864e-06
+ RESULT :: Effective FPR: 1.84893e-05
+ RESULT :: Effective FPR: 1.84893e-05
+  INFO :: Refreshed FBF
+ RESULT :: Effective FPR: 1.84896e-05
+ RESULT :: Effective FPR: 1.85833e-05
+ RESULT :: Effective FPR: 1.85833e-05
+ RESULT :: Effective FPR: 1.85833e-05
+ RESULT :: Effective FPR: 2.11793e-05
+ RESULT :: Effective FPR: 2.11793e-05
+ RESULT :: Effective FPR: 2.11793e-05
+ RESULT :: Effective FPR: 3.69864e-05
+ RESULT :: Effective FPR: 3.69864e-05

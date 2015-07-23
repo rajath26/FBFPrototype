@@ -1,0 +1,9 @@
+TARGET,0.001000
+0,0,11,3
+12,1.5541e-05,21,6
+TEST PARAMETERS
+Constituent Filter bits, 6250
+Number of hash functions,5
+Initial Refresh Rate,7
+Batch Operations,50
+

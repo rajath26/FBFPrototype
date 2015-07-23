@@ -1,0 +1,631 @@
+ ----------------------------------------------------------- 
+ INFO :: Test Execution Info 
+ INFO :: NUMBER OF ELEMENTS: 100
+ INFO :: REFRESH RATE: 5
+ INFO :: BATCH OPERATIONS: 100
+
+ INFO :: NUMBER OF HASHES CHOSEN : 3
+
+ INFO :: TABLE SIZE IN BYTES: 50000
+
+ INFO :: TABLE SIZE CHOSEN : 6250
+  INFO :: 3 constituent bloom filters initialized in the FBF
+  INFO :: FBFs initialized
+
+  INFO :: Starting the refresh FBF thread
+  INFO :: Refreshed FBF
+
+Finished inserting test elements
+Stopping FBF threads  RESULT :: Smart FPR = 1.4e-05
+ RESULT :: Effective FPR: 1.37281e-09
+  INFO :: fbf Analysis FPR: 1
+ -----------------------------------------------------------
+
+ ----------------------------------------------------------- 
+ INFO :: Test Execution Info 
+ INFO :: NUMBER OF ELEMENTS: 250
+ INFO :: REFRESH RATE: 5
+ INFO :: BATCH OPERATIONS: 100
+
+ INFO :: NUMBER OF HASHES CHOSEN : 3
+
+ INFO :: TABLE SIZE IN BYTES: 50000
+
+ INFO :: TABLE SIZE CHOSEN : 6250
+  INFO :: 3 constituent bloom filters initialized in the FBF
+  INFO :: FBFs initialized
+
+  INFO :: Starting the refresh FBF thread
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+
+Finished inserting test elements
+Stopping FBF threads  RESULT :: Smart FPR = 9.7e-05
+ RESULT :: Effective FPR: 0.000102962
+  INFO :: fbf Analysis FPR: 1.33361e-05
+ -----------------------------------------------------------
+
+ ----------------------------------------------------------- 
+ INFO :: Test Execution Info 
+ INFO :: NUMBER OF ELEMENTS: 400
+ INFO :: REFRESH RATE: 5
+ INFO :: BATCH OPERATIONS: 100
+
+ INFO :: NUMBER OF HASHES CHOSEN : 3
+
+ INFO :: TABLE SIZE IN BYTES: 50000
+
+ INFO :: TABLE SIZE CHOSEN : 6250
+  INFO :: 3 constituent bloom filters initialized in the FBF
+  INFO :: FBFs initialized
+
+  INFO :: Starting the refresh FBF thread
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+
+Finished inserting test elements
+Stopping FBF threads  RESULT :: Smart FPR = 0.000186
+ RESULT :: Effective FPR: 0.000103606
+  INFO :: fbf Analysis FPR: 0.000766965
+ -----------------------------------------------------------
+
+ ----------------------------------------------------------- 
+ INFO :: Test Execution Info 
+ INFO :: NUMBER OF ELEMENTS: 550
+ INFO :: REFRESH RATE: 5
+ INFO :: BATCH OPERATIONS: 100
+
+ INFO :: NUMBER OF HASHES CHOSEN : 3
+
+ INFO :: TABLE SIZE IN BYTES: 50000
+
+ INFO :: TABLE SIZE CHOSEN : 6250
+  INFO :: 3 constituent bloom filters initialized in the FBF
+  INFO :: FBFs initialized
+
+  INFO :: Starting the refresh FBF thread
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+
+Finished inserting test elements
+Stopping FBF threads  RESULT :: Smart FPR = 0.000699
+ RESULT :: Effective FPR: 0.000767541
+  INFO :: fbf Analysis FPR: 0.0919043
+ -----------------------------------------------------------
+
+ ----------------------------------------------------------- 
+ INFO :: Test Execution Info 
+ INFO :: NUMBER OF ELEMENTS: 700
+ INFO :: REFRESH RATE: 5
+ INFO :: BATCH OPERATIONS: 100
+
+ INFO :: NUMBER OF HASHES CHOSEN : 3
+
+ INFO :: TABLE SIZE IN BYTES: 50000
+
+ INFO :: TABLE SIZE CHOSEN : 6250
+  INFO :: 3 constituent bloom filters initialized in the FBF
+  INFO :: FBFs initialized
+
+  INFO :: Starting the refresh FBF thread
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+
+Finished inserting test elements
+Stopping FBF threads  RESULT :: Smart FPR = 0.000959
+ RESULT :: Effective FPR: 0.000771562
+  INFO :: fbf Analysis FPR: 0.093791
+ -----------------------------------------------------------
+
+ ----------------------------------------------------------- 
+ INFO :: Test Execution Info 
+ INFO :: NUMBER OF ELEMENTS: 850
+ INFO :: REFRESH RATE: 5
+ INFO :: BATCH OPERATIONS: 100
+
+ INFO :: NUMBER OF HASHES CHOSEN : 3
+
+ INFO :: TABLE SIZE IN BYTES: 50000
+
+ INFO :: TABLE SIZE CHOSEN : 6250
+  INFO :: 3 constituent bloom filters initialized in the FBF
+  INFO :: FBFs initialized
+
+  INFO :: Starting the refresh FBF thread
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+
+Finished inserting test elements
+Stopping FBF threads  RESULT :: Smart FPR = 0.001255
+ RESULT :: Effective FPR: 0.00144786
+  INFO :: fbf Analysis FPR: 0.091934
+ -----------------------------------------------------------
+
+ ----------------------------------------------------------- 
+ INFO :: Test Execution Info 
+ INFO :: NUMBER OF ELEMENTS: 1000
+ INFO :: REFRESH RATE: 5
+ INFO :: BATCH OPERATIONS: 100
+
+ INFO :: NUMBER OF HASHES CHOSEN : 3
+
+ INFO :: TABLE SIZE IN BYTES: 50000
+
+ INFO :: TABLE SIZE CHOSEN : 6250
+  INFO :: 3 constituent bloom filters initialized in the FBF
+  INFO :: FBFs initialized
+
+  INFO :: Starting the refresh FBF thread
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+
+Finished inserting test elements
+Stopping FBF threads  RESULT :: Smart FPR = 0.001274
+ RESULT :: Effective FPR: 0.00144647
+  INFO :: fbf Analysis FPR: 0.134393
+ -----------------------------------------------------------
+
+ ----------------------------------------------------------- 
+ INFO :: Test Execution Info 
+ INFO :: NUMBER OF ELEMENTS: 1150
+ INFO :: REFRESH RATE: 5
+ INFO :: BATCH OPERATIONS: 100
+
+ INFO :: NUMBER OF HASHES CHOSEN : 3
+
+ INFO :: TABLE SIZE IN BYTES: 50000
+
+ INFO :: TABLE SIZE CHOSEN : 6250
+  INFO :: 3 constituent bloom filters initialized in the FBF
+  INFO :: FBFs initialized
+
+  INFO :: Starting the refresh FBF thread
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+
+Finished inserting test elements
+Stopping FBF threads  RESULT :: Smart FPR = 0.001435
+ RESULT :: Effective FPR: 0.00144905
+  INFO :: fbf Analysis FPR: 0.135555
+ -----------------------------------------------------------
+
+ ----------------------------------------------------------- 
+ INFO :: Test Execution Info 
+ INFO :: NUMBER OF ELEMENTS: 1300
+ INFO :: REFRESH RATE: 5
+ INFO :: BATCH OPERATIONS: 100
+
+ INFO :: NUMBER OF HASHES CHOSEN : 3
+
+ INFO :: TABLE SIZE IN BYTES: 50000
+
+ INFO :: TABLE SIZE CHOSEN : 6250
+  INFO :: 3 constituent bloom filters initialized in the FBF
+  INFO :: FBFs initialized
+
+  INFO :: Starting the refresh FBF thread
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+
+Finished inserting test elements
+Stopping FBF threads  RESULT :: Smart FPR = 0.001234
+ RESULT :: Effective FPR: 0.00144713
+  INFO :: fbf Analysis FPR: 0.0917229
+ -----------------------------------------------------------
+
+ ----------------------------------------------------------- 
+ INFO :: Test Execution Info 
+ INFO :: NUMBER OF ELEMENTS: 1450
+ INFO :: REFRESH RATE: 5
+ INFO :: BATCH OPERATIONS: 100
+
+ INFO :: NUMBER OF HASHES CHOSEN : 3
+
+ INFO :: TABLE SIZE IN BYTES: 50000
+
+ INFO :: TABLE SIZE CHOSEN : 6250
+  INFO :: 3 constituent bloom filters initialized in the FBF
+  INFO :: FBFs initialized
+
+  INFO :: Starting the refresh FBF thread
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+
+Finished inserting test elements
+Stopping FBF threads  RESULT :: Smart FPR = 0.0012275
+ RESULT :: Effective FPR: 0.00144624
+  INFO :: fbf Analysis FPR: 0.134315
+ -----------------------------------------------------------
+
+ ----------------------------------------------------------- 
+ INFO :: Test Execution Info 
+ INFO :: NUMBER OF ELEMENTS: 1600
+ INFO :: REFRESH RATE: 5
+ INFO :: BATCH OPERATIONS: 100
+
+ INFO :: NUMBER OF HASHES CHOSEN : 3
+
+ INFO :: TABLE SIZE IN BYTES: 50000
+
+ INFO :: TABLE SIZE CHOSEN : 6250
+  INFO :: 3 constituent bloom filters initialized in the FBF
+  INFO :: FBFs initialized
+
+  INFO :: Starting the refresh FBF thread
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+
+Finished inserting test elements
+Stopping FBF threads  RESULT :: Smart FPR = 0.001308
+ RESULT :: Effective FPR: 0.00144764
+  INFO :: fbf Analysis FPR: 0.134967
+ -----------------------------------------------------------
+
+ ----------------------------------------------------------- 
+ INFO :: Test Execution Info 
+ INFO :: NUMBER OF ELEMENTS: 1750
+ INFO :: REFRESH RATE: 5
+ INFO :: BATCH OPERATIONS: 100
+
+ INFO :: NUMBER OF HASHES CHOSEN : 3
+
+ INFO :: TABLE SIZE IN BYTES: 50000
+
+ INFO :: TABLE SIZE CHOSEN : 6250
+  INFO :: 3 constituent bloom filters initialized in the FBF
+  INFO :: FBFs initialized
+
+  INFO :: Starting the refresh FBF thread
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+
+Finished inserting test elements
+Stopping FBF threads  RESULT :: Smart FPR = 0.0011855
+ RESULT :: Effective FPR: 0.00144671
+  INFO :: fbf Analysis FPR: 0.0916415
+ -----------------------------------------------------------
+
+ ----------------------------------------------------------- 
+ INFO :: Test Execution Info 
+ INFO :: NUMBER OF ELEMENTS: 100
+ INFO :: REFRESH RATE: 5
+ INFO :: BATCH OPERATIONS: 75
+
+ INFO :: NUMBER OF HASHES CHOSEN : 3
+
+ INFO :: TABLE SIZE IN BYTES: 50000
+
+ INFO :: TABLE SIZE CHOSEN : 6250
+  INFO :: 3 constituent bloom filters initialized in the FBF
+  INFO :: FBFs initialized
+
+  INFO :: Starting the refresh FBF thread
+  INFO :: Refreshed FBF
+
+Finished inserting test elements
+Stopping FBF threads  RESULT :: Smart FPR = 1.4e-05
+ RESULT :: Effective FPR: 1.37281e-09
+  INFO :: fbf Analysis FPR: 1
+ -----------------------------------------------------------
+
+ ----------------------------------------------------------- 
+ INFO :: Test Execution Info 
+ INFO :: NUMBER OF ELEMENTS: 200
+ INFO :: REFRESH RATE: 5
+ INFO :: BATCH OPERATIONS: 75
+
+ INFO :: NUMBER OF HASHES CHOSEN : 3
+
+ INFO :: TABLE SIZE IN BYTES: 50000
+
+ INFO :: TABLE SIZE CHOSEN : 6250
+  INFO :: 3 constituent bloom filters initialized in the FBF
+  INFO :: FBFs initialized
+
+  INFO :: Starting the refresh FBF thread
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+
+Finished inserting test elements
+Stopping FBF threads  RESULT :: Smart FPR = 4.15e-05
+ RESULT :: Effective FPR: 4.42165e-05
+  INFO :: fbf Analysis FPR: 1.33361e-05
+ -----------------------------------------------------------
+
+ ----------------------------------------------------------- 
+ INFO :: Test Execution Info 
+ INFO :: NUMBER OF ELEMENTS: 300
+ INFO :: REFRESH RATE: 5
+ INFO :: BATCH OPERATIONS: 75
+
+ INFO :: NUMBER OF HASHES CHOSEN : 3
+
+ INFO :: TABLE SIZE IN BYTES: 50000
+
+ INFO :: TABLE SIZE CHOSEN : 6250
+  INFO :: 3 constituent bloom filters initialized in the FBF
+  INFO :: FBFs initialized
+
+  INFO :: Starting the refresh FBF thread
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+
+Finished inserting test elements
+Stopping FBF threads  RESULT :: Smart FPR = 7.75e-05
+ RESULT :: Effective FPR: 4.43378e-05
+  INFO :: fbf Analysis FPR: 0.000335255
+ -----------------------------------------------------------
+
+ ----------------------------------------------------------- 
+ INFO :: Test Execution Info 
+ INFO :: NUMBER OF ELEMENTS: 400
+ INFO :: REFRESH RATE: 5
+ INFO :: BATCH OPERATIONS: 75
+
+ INFO :: NUMBER OF HASHES CHOSEN : 3
+
+ INFO :: TABLE SIZE IN BYTES: 50000
+
+ INFO :: TABLE SIZE CHOSEN : 6250
+  INFO :: 3 constituent bloom filters initialized in the FBF
+  INFO :: FBFs initialized
+
+  INFO :: Starting the refresh FBF thread
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+
+Finished inserting test elements
+Stopping FBF threads  RESULT :: Smart FPR = 0.000315
+ RESULT :: Effective FPR: 0.000335341
+  INFO :: fbf Analysis FPR: 0.0695866
+ -----------------------------------------------------------
+
+ ----------------------------------------------------------- 
+ INFO :: Test Execution Info 
+ INFO :: NUMBER OF ELEMENTS: 500
+ INFO :: REFRESH RATE: 5
+ INFO :: BATCH OPERATIONS: 75
+
+ INFO :: NUMBER OF HASHES CHOSEN : 3
+
+ INFO :: TABLE SIZE IN BYTES: 50000
+
+ INFO :: TABLE SIZE CHOSEN : 6250
+  INFO :: 3 constituent bloom filters initialized in the FBF
+  INFO :: FBFs initialized
+
+  INFO :: Starting the refresh FBF thread
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+
+Finished inserting test elements
+Stopping FBF threads  RESULT :: Smart FPR = 0.0003835
+ RESULT :: Effective FPR: 0.000335831
+  INFO :: fbf Analysis FPR: 0.0702044
+ -----------------------------------------------------------
+
+ ----------------------------------------------------------- 
+ INFO :: Test Execution Info 
+ INFO :: NUMBER OF ELEMENTS: 600
+ INFO :: REFRESH RATE: 5
+ INFO :: BATCH OPERATIONS: 75
+
+ INFO :: NUMBER OF HASHES CHOSEN : 3
+
+ INFO :: TABLE SIZE IN BYTES: 50000
+
+ INFO :: TABLE SIZE CHOSEN : 6250
+  INFO :: 3 constituent bloom filters initialized in the FBF
+  INFO :: FBFs initialized
+
+  INFO :: Starting the refresh FBF thread
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+
+Finished inserting test elements
+Stopping FBF threads  RESULT :: Smart FPR = 0.0005465
+ RESULT :: Effective FPR: 0.000632948
+  INFO :: fbf Analysis FPR: 0.0695422
+ -----------------------------------------------------------
+
+ ----------------------------------------------------------- 
+ INFO :: Test Execution Info 
+ INFO :: NUMBER OF ELEMENTS: 700
+ INFO :: REFRESH RATE: 5
+ INFO :: BATCH OPERATIONS: 75
+
+ INFO :: NUMBER OF HASHES CHOSEN : 3
+
+ INFO :: TABLE SIZE IN BYTES: 50000
+
+ INFO :: TABLE SIZE CHOSEN : 6250
+  INFO :: 3 constituent bloom filters initialized in the FBF
+  INFO :: FBFs initialized
+
+  INFO :: Starting the refresh FBF thread
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+
+Finished inserting test elements
+Stopping FBF threads  RESULT :: Smart FPR = 0.0005445
+ RESULT :: Effective FPR: 0.000632765
+  INFO :: fbf Analysis FPR: 0.102441
+ -----------------------------------------------------------
+
+ ----------------------------------------------------------- 
+ INFO :: Test Execution Info 
+ INFO :: NUMBER OF ELEMENTS: 800
+ INFO :: REFRESH RATE: 5
+ INFO :: BATCH OPERATIONS: 75
+
+ INFO :: NUMBER OF HASHES CHOSEN : 3
+
+ INFO :: TABLE SIZE IN BYTES: 50000
+
+ INFO :: TABLE SIZE CHOSEN : 6250
+  INFO :: 3 constituent bloom filters initialized in the FBF
+  INFO :: FBFs initialized
+
+  INFO :: Starting the refresh FBF thread
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+
+Finished inserting test elements
+Stopping FBF threads  RESULT :: Smart FPR = 0.0005695
+ RESULT :: Effective FPR: 0.000632935
+  INFO :: fbf Analysis FPR: 0.102617
+ -----------------------------------------------------------
+
+ ----------------------------------------------------------- 
+ INFO :: Test Execution Info 
+ INFO :: NUMBER OF ELEMENTS: 900
+ INFO :: REFRESH RATE: 5
+ INFO :: BATCH OPERATIONS: 75
+
+ INFO :: NUMBER OF HASHES CHOSEN : 3
+
+ INFO :: TABLE SIZE IN BYTES: 50000
+
+ INFO :: TABLE SIZE CHOSEN : 6250
+  INFO :: 3 constituent bloom filters initialized in the FBF
+  INFO :: FBFs initialized
+
+  INFO :: Starting the refresh FBF thread
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+
+Finished inserting test elements
+Stopping FBF threads  RESULT :: Smart FPR = 0.000682
+ RESULT :: Effective FPR: 0.0006338
+  INFO :: fbf Analysis FPR: 0.103402
+ -----------------------------------------------------------
+
+ ----------------------------------------------------------- 
+ INFO :: Test Execution Info 
+ INFO :: NUMBER OF ELEMENTS: 1000
+ INFO :: REFRESH RATE: 5
+ INFO :: BATCH OPERATIONS: 75
+
+ INFO :: NUMBER OF HASHES CHOSEN : 3
+
+ INFO :: TABLE SIZE IN BYTES: 50000
+
+ INFO :: TABLE SIZE CHOSEN : 6250
+  INFO :: 3 constituent bloom filters initialized in the FBF
+  INFO :: FBFs initialized
+
+  INFO :: Starting the refresh FBF thread
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+
+Finished inserting test elements
+Stopping FBF threads  RESULT :: Smart FPR = 0.000552
+ RESULT :: Effective FPR: 0.000633029
+  INFO :: fbf Analysis FPR: 0.0695968
+ -----------------------------------------------------------
+
+ ----------------------------------------------------------- 
+ INFO :: Test Execution Info 
+ INFO :: NUMBER OF ELEMENTS: 1100
+ INFO :: REFRESH RATE: 5
+ INFO :: BATCH OPERATIONS: 75
+
+ INFO :: NUMBER OF HASHES CHOSEN : 3
+
+ INFO :: TABLE SIZE IN BYTES: 50000
+
+ INFO :: TABLE SIZE CHOSEN : 6250
+  INFO :: 3 constituent bloom filters initialized in the FBF
+  INFO :: FBFs initialized
+
+  INFO :: Starting the refresh FBF thread
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+
+Finished inserting test elements
+Stopping FBF threads  RESULT :: Smart FPR = 0.0005585
+ RESULT :: Effective FPR: 0.000632788
+  INFO :: fbf Analysis FPR: 0.102451
+ -----------------------------------------------------------
+
+ ----------------------------------------------------------- 
+ INFO :: Test Execution Info 
+ INFO :: NUMBER OF ELEMENTS: 1200
+ INFO :: REFRESH RATE: 5
+ INFO :: BATCH OPERATIONS: 75
+
+ INFO :: NUMBER OF HASHES CHOSEN : 3
+
+ INFO :: TABLE SIZE IN BYTES: 50000
+
+ INFO :: TABLE SIZE CHOSEN : 6250
+  INFO :: 3 constituent bloom filters initialized in the FBF
+  INFO :: FBFs initialized
+
+  INFO :: Starting the refresh FBF thread
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+
+Finished inserting test elements
+Stopping FBF threads  RESULT :: Smart FPR = 0.0005905
+ RESULT :: Effective FPR: 0.000633046
+  INFO :: fbf Analysis FPR: 0.10274
+ -----------------------------------------------------------
+

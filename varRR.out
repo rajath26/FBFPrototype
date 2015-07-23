@@ -1,0 +1,1015 @@
+
+  INFO :: Vary refresh rate
+ ----------------------------------------------------------- 
+ INFO :: Test Execution Info 
+ INFO :: NUMBER OF ELEMENTS: 5000
+ INFO :: REFRESH RATE: 20
+ INFO :: BATCH OPERATIONS: 100
+
+ INFO :: NUMBER OF HASHES CHOSEN : 5
+
+ INFO :: TABLE SIZE IN BYTES: 200000
+
+ INFO :: TABLE SIZE CHOSEN : 25000
+  INFO :: 3 constituent bloom filters initialized in the FBF
+  INFO :: FBFs initialized
+
+  INFO :: Starting the refresh FBF thread
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+
+Finished inserting test elements
+Stopping FBF threads INFO :: Time elapsed in for loop: 100.199
+ INFO :: Rate of insertion: 49.9009 per second
+ RESULT :: Effective FPR: 0.00389577
+ -----------------------------------------------------------
+
+ ----------------------------------------------------------- 
+ INFO :: Test Execution Info 
+ INFO :: NUMBER OF ELEMENTS: 5000
+ INFO :: REFRESH RATE: 10
+ INFO :: BATCH OPERATIONS: 100
+
+ INFO :: NUMBER OF HASHES CHOSEN : 5
+
+ INFO :: TABLE SIZE IN BYTES: 200000
+
+ INFO :: TABLE SIZE CHOSEN : 25000
+  INFO :: 3 constituent bloom filters initialized in the FBF
+  INFO :: FBFs initialized
+
+  INFO :: Starting the refresh FBF thread
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+
+Finished inserting test elements
+Stopping FBF threads INFO :: Time elapsed in for loop: 100.191
+ INFO :: Rate of insertion: 49.9046 per second
+ RESULT :: Effective FPR: 0.00019572
+ -----------------------------------------------------------
+
+ ----------------------------------------------------------- 
+ INFO :: Test Execution Info 
+ INFO :: NUMBER OF ELEMENTS: 5000
+ INFO :: REFRESH RATE: 5
+ INFO :: BATCH OPERATIONS: 100
+
+ INFO :: NUMBER OF HASHES CHOSEN : 5
+
+ INFO :: TABLE SIZE IN BYTES: 200000
+
+ INFO :: TABLE SIZE CHOSEN : 25000
+  INFO :: 3 constituent bloom filters initialized in the FBF
+  INFO :: FBFs initialized
+
+  INFO :: Starting the refresh FBF thread
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+
+Finished inserting test elements
+Stopping FBF threads INFO :: Time elapsed in for loop: 100.205
+ INFO :: Rate of insertion: 49.8978 per second
+ RESULT :: Effective FPR: 7.8073e-06
+ -----------------------------------------------------------
+
+ ----------------------------------------------------------- 
+ INFO :: Test Execution Info 
+ INFO :: NUMBER OF ELEMENTS: 5000
+ INFO :: REFRESH RATE: 3
+ INFO :: BATCH OPERATIONS: 100
+
+ INFO :: NUMBER OF HASHES CHOSEN : 5
+
+ INFO :: TABLE SIZE IN BYTES: 200000
+
+ INFO :: TABLE SIZE CHOSEN : 25000
+  INFO :: 3 constituent bloom filters initialized in the FBF
+  INFO :: FBFs initialized
+
+  INFO :: Starting the refresh FBF thread
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+
+Finished inserting test elements
+Stopping FBF threads INFO :: Time elapsed in for loop: 100.225
+ INFO :: Rate of insertion: 49.8877 per second
+ RESULT :: Effective FPR: 6.72833e-07
+ -----------------------------------------------------------
+
+ ----------------------------------------------------------- 
+ INFO :: Test Execution Info 
+ INFO :: NUMBER OF ELEMENTS: 5000
+ INFO :: REFRESH RATE: 2
+ INFO :: BATCH OPERATIONS: 100
+
+ INFO :: NUMBER OF HASHES CHOSEN : 5
+
+ INFO :: TABLE SIZE IN BYTES: 200000
+
+ INFO :: TABLE SIZE CHOSEN : 25000
+  INFO :: 3 constituent bloom filters initialized in the FBF
+  INFO :: FBFs initialized
+
+  INFO :: Starting the refresh FBF thread
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+
+Finished inserting test elements
+Stopping FBF threads INFO :: Time elapsed in for loop: 100.37
+ INFO :: Rate of insertion: 49.8156 per second
+ RESULT :: Effective FPR: 9.57304e-08
+ -----------------------------------------------------------
+
+ ----------------------------------------------------------- 
+ INFO :: Test Execution Info 
+ INFO :: NUMBER OF ELEMENTS: 5000
+ INFO :: REFRESH RATE: 1
+ INFO :: BATCH OPERATIONS: 100
+
+ INFO :: NUMBER OF HASHES CHOSEN : 5
+
+ INFO :: TABLE SIZE IN BYTES: 200000
+
+ INFO :: TABLE SIZE CHOSEN : 25000
+  INFO :: 3 constituent bloom filters initialized in the FBF
+  INFO :: FBFs initialized
+
+  INFO :: Starting the refresh FBF thread
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+
+Finished inserting test elements
+Stopping FBF threads INFO :: Time elapsed in for loop: 100.383
+ INFO :: Rate of insertion: 49.8094 per second
+ RESULT :: Effective FPR: 6.08838e-09
+ -----------------------------------------------------------
+
+ ----------------------------------------------------------- 
+ INFO :: Test Execution Info 
+ INFO :: NUMBER OF ELEMENTS: 5000
+ INFO :: REFRESH RATE: 20
+ INFO :: BATCH OPERATIONS: 500
+
+ INFO :: NUMBER OF HASHES CHOSEN : 5
+
+ INFO :: TABLE SIZE IN BYTES: 200000
+
+ INFO :: TABLE SIZE CHOSEN : 25000
+  INFO :: 3 constituent bloom filters initialized in the FBF
+  INFO :: FBFs initialized
+
+  INFO :: Starting the refresh FBF thread
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+
+Finished inserting test elements
+Stopping FBF threads INFO :: Time elapsed in for loop: 20.0819
+ INFO :: Rate of insertion: 248.981 per second
+ RESULT :: Effective FPR: 0.0804832
+ -----------------------------------------------------------
+
+ ----------------------------------------------------------- 
+ INFO :: Test Execution Info 
+ INFO :: NUMBER OF ELEMENTS: 5000
+ INFO :: REFRESH RATE: 10
+ INFO :: BATCH OPERATIONS: 500
+
+ INFO :: NUMBER OF HASHES CHOSEN : 5
+
+ INFO :: TABLE SIZE IN BYTES: 200000
+
+ INFO :: TABLE SIZE CHOSEN : 25000
+  INFO :: 3 constituent bloom filters initialized in the FBF
+  INFO :: FBFs initialized
+
+  INFO :: Starting the refresh FBF thread
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+
+Finished inserting test elements
+Stopping FBF threads INFO :: Time elapsed in for loop: 20.1029
+ INFO :: Rate of insertion: 248.72 per second
+ RESULT :: Effective FPR: 0.0748771
+ -----------------------------------------------------------
+
+ ----------------------------------------------------------- 
+ INFO :: Test Execution Info 
+ INFO :: NUMBER OF ELEMENTS: 5000
+ INFO :: REFRESH RATE: 5
+ INFO :: BATCH OPERATIONS: 500
+
+ INFO :: NUMBER OF HASHES CHOSEN : 5
+
+ INFO :: TABLE SIZE IN BYTES: 200000
+
+ INFO :: TABLE SIZE CHOSEN : 25000
+  INFO :: 3 constituent bloom filters initialized in the FBF
+  INFO :: FBFs initialized
+
+  INFO :: Starting the refresh FBF thread
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+
+Finished inserting test elements
+Stopping FBF threads INFO :: Time elapsed in for loop: 20.0954
+ INFO :: Rate of insertion: 248.814 per second
+ RESULT :: Effective FPR: 0.00944959
+ -----------------------------------------------------------
+
+ ----------------------------------------------------------- 
+ INFO :: Test Execution Info 
+ INFO :: NUMBER OF ELEMENTS: 5000
+ INFO :: REFRESH RATE: 3
+ INFO :: BATCH OPERATIONS: 500
+
+ INFO :: NUMBER OF HASHES CHOSEN : 5
+
+ INFO :: TABLE SIZE IN BYTES: 200000
+
+ INFO :: TABLE SIZE CHOSEN : 25000
+  INFO :: 3 constituent bloom filters initialized in the FBF
+  INFO :: FBFs initialized
+
+  INFO :: Starting the refresh FBF thread
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+
+Finished inserting test elements
+Stopping FBF threads INFO :: Time elapsed in for loop: 20.0631
+ INFO :: Rate of insertion: 249.214 per second
+ RESULT :: Effective FPR: 0.00136641
+ -----------------------------------------------------------
+
+ ----------------------------------------------------------- 
+ INFO :: Test Execution Info 
+ INFO :: NUMBER OF ELEMENTS: 5000
+ INFO :: REFRESH RATE: 2
+ INFO :: BATCH OPERATIONS: 500
+
+ INFO :: NUMBER OF HASHES CHOSEN : 5
+
+ INFO :: TABLE SIZE IN BYTES: 200000
+
+ INFO :: TABLE SIZE CHOSEN : 25000
+  INFO :: 3 constituent bloom filters initialized in the FBF
+  INFO :: FBFs initialized
+
+  INFO :: Starting the refresh FBF thread
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+
+Finished inserting test elements
+Stopping FBF threads INFO :: Time elapsed in for loop: 20.0578
+ INFO :: Rate of insertion: 249.279 per second
+ RESULT :: Effective FPR: 0.000203554
+ -----------------------------------------------------------
+
+ ----------------------------------------------------------- 
+ INFO :: Test Execution Info 
+ INFO :: NUMBER OF ELEMENTS: 5000
+ INFO :: REFRESH RATE: 1
+ INFO :: BATCH OPERATIONS: 500
+
+ INFO :: NUMBER OF HASHES CHOSEN : 5
+
+ INFO :: TABLE SIZE IN BYTES: 200000
+
+ INFO :: TABLE SIZE CHOSEN : 25000
+  INFO :: 3 constituent bloom filters initialized in the FBF
+  INFO :: FBFs initialized
+
+  INFO :: Starting the refresh FBF thread
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+
+Finished inserting test elements
+Stopping FBF threads INFO :: Time elapsed in for loop: 20.0629
+ INFO :: Rate of insertion: 249.216 per second
+ RESULT :: Effective FPR: 1.56085e-05
+ -----------------------------------------------------------
+
+ ----------------------------------------------------------- 
+ INFO :: Test Execution Info 
+ INFO :: NUMBER OF ELEMENTS: 5000
+ INFO :: REFRESH RATE: 20
+ INFO :: BATCH OPERATIONS: 750
+
+ INFO :: NUMBER OF HASHES CHOSEN : 5
+
+ INFO :: TABLE SIZE IN BYTES: 200000
+
+ INFO :: TABLE SIZE CHOSEN : 25000
+  INFO :: 3 constituent bloom filters initialized in the FBF
+  INFO :: FBFs initialized
+
+  INFO :: Starting the refresh FBF thread
+  INFO :: Refreshed FBF
+
+Finished inserting test elements
+Stopping FBF threads INFO :: Time elapsed in for loop: 14.044
+ INFO :: Rate of insertion: 356.025 per second
+ RESULT :: Effective FPR: 0.100925
+ -----------------------------------------------------------
+
+ ----------------------------------------------------------- 
+ INFO :: Test Execution Info 
+ INFO :: NUMBER OF ELEMENTS: 5000
+ INFO :: REFRESH RATE: 10
+ INFO :: BATCH OPERATIONS: 750
+
+ INFO :: NUMBER OF HASHES CHOSEN : 5
+
+ INFO :: TABLE SIZE IN BYTES: 200000
+
+ INFO :: TABLE SIZE CHOSEN : 25000
+  INFO :: 3 constituent bloom filters initialized in the FBF
+  INFO :: FBFs initialized
+
+  INFO :: Starting the refresh FBF thread
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+
+Finished inserting test elements
+Stopping FBF threads INFO :: Time elapsed in for loop: 14.0452
+ INFO :: Rate of insertion: 355.995 per second
+ RESULT :: Effective FPR: 0.0243641
+ -----------------------------------------------------------
+
+ ----------------------------------------------------------- 
+ INFO :: Test Execution Info 
+ INFO :: NUMBER OF ELEMENTS: 5000
+ INFO :: REFRESH RATE: 5
+ INFO :: BATCH OPERATIONS: 750
+
+ INFO :: NUMBER OF HASHES CHOSEN : 5
+
+ INFO :: TABLE SIZE IN BYTES: 200000
+
+ INFO :: TABLE SIZE CHOSEN : 25000
+  INFO :: 3 constituent bloom filters initialized in the FBF
+  INFO :: FBFs initialized
+
+  INFO :: Starting the refresh FBF thread
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+
+Finished inserting test elements
+Stopping FBF threads INFO :: Time elapsed in for loop: 14.0479
+ INFO :: Rate of insertion: 355.925 per second
+ RESULT :: Effective FPR: 0.0231105
+ -----------------------------------------------------------
+
+ ----------------------------------------------------------- 
+ INFO :: Test Execution Info 
+ INFO :: NUMBER OF ELEMENTS: 5000
+ INFO :: REFRESH RATE: 3
+ INFO :: BATCH OPERATIONS: 750
+
+ INFO :: NUMBER OF HASHES CHOSEN : 5
+
+ INFO :: TABLE SIZE IN BYTES: 200000
+
+ INFO :: TABLE SIZE CHOSEN : 25000
+  INFO :: 3 constituent bloom filters initialized in the FBF
+  INFO :: FBFs initialized
+
+  INFO :: Starting the refresh FBF thread
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+
+Finished inserting test elements
+Stopping FBF threads INFO :: Time elapsed in for loop: 14.0546
+ INFO :: Rate of insertion: 355.755 per second
+ RESULT :: Effective FPR: 0.00679887
+ -----------------------------------------------------------
+
+ ----------------------------------------------------------- 
+ INFO :: Test Execution Info 
+ INFO :: NUMBER OF ELEMENTS: 5000
+ INFO :: REFRESH RATE: 2
+ INFO :: BATCH OPERATIONS: 750
+
+ INFO :: NUMBER OF HASHES CHOSEN : 5
+
+ INFO :: TABLE SIZE IN BYTES: 200000
+
+ INFO :: TABLE SIZE CHOSEN : 25000
+  INFO :: 3 constituent bloom filters initialized in the FBF
+  INFO :: FBFs initialized
+
+  INFO :: Starting the refresh FBF thread
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+
+Finished inserting test elements
+Stopping FBF threads INFO :: Time elapsed in for loop: 14.0526
+ INFO :: Rate of insertion: 355.805 per second
+ RESULT :: Effective FPR: 0.00117797
+ -----------------------------------------------------------
+
+ ----------------------------------------------------------- 
+ INFO :: Test Execution Info 
+ INFO :: NUMBER OF ELEMENTS: 5000
+ INFO :: REFRESH RATE: 1
+ INFO :: BATCH OPERATIONS: 750
+
+ INFO :: NUMBER OF HASHES CHOSEN : 5
+
+ INFO :: TABLE SIZE IN BYTES: 200000
+
+ INFO :: TABLE SIZE CHOSEN : 25000
+  INFO :: 3 constituent bloom filters initialized in the FBF
+  INFO :: FBFs initialized
+
+  INFO :: Starting the refresh FBF thread
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+
+Finished inserting test elements
+Stopping FBF threads INFO :: Time elapsed in for loop: 14.0497
+ INFO :: Rate of insertion: 355.879 per second
+ RESULT :: Effective FPR: 6.01665e-05
+ -----------------------------------------------------------
+
+ ----------------------------------------------------------- 
+ INFO :: Test Execution Info 
+ INFO :: NUMBER OF ELEMENTS: 5000
+ INFO :: REFRESH RATE: 20
+ INFO :: BATCH OPERATIONS: 1000
+
+ INFO :: NUMBER OF HASHES CHOSEN : 5
+
+ INFO :: TABLE SIZE IN BYTES: 200000
+
+ INFO :: TABLE SIZE CHOSEN : 25000
+  INFO :: 3 constituent bloom filters initialized in the FBF
+  INFO :: FBFs initialized
+
+  INFO :: Starting the refresh FBF thread
+  INFO :: Refreshed FBF
+
+Finished inserting test elements
+Stopping FBF threads INFO :: Time elapsed in for loop: 10.0389
+ INFO :: Rate of insertion: 498.065 per second
+ RESULT :: Effective FPR: 0.100925
+ -----------------------------------------------------------
+
+ ----------------------------------------------------------- 
+ INFO :: Test Execution Info 
+ INFO :: NUMBER OF ELEMENTS: 5000
+ INFO :: REFRESH RATE: 10
+ INFO :: BATCH OPERATIONS: 1000
+
+ INFO :: NUMBER OF HASHES CHOSEN : 5
+
+ INFO :: TABLE SIZE IN BYTES: 200000
+
+ INFO :: TABLE SIZE CHOSEN : 25000
+  INFO :: 3 constituent bloom filters initialized in the FBF
+  INFO :: FBFs initialized
+
+  INFO :: Starting the refresh FBF thread
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+
+Finished inserting test elements
+Stopping FBF threads INFO :: Time elapsed in for loop: 10.0413
+ INFO :: Rate of insertion: 497.943 per second
+ RESULT :: Effective FPR: 0.0556728
+ -----------------------------------------------------------
+
+ ----------------------------------------------------------- 
+ INFO :: Test Execution Info 
+ INFO :: NUMBER OF ELEMENTS: 5000
+ INFO :: REFRESH RATE: 5
+ INFO :: BATCH OPERATIONS: 1000
+
+ INFO :: NUMBER OF HASHES CHOSEN : 5
+
+ INFO :: TABLE SIZE IN BYTES: 200000
+
+ INFO :: TABLE SIZE CHOSEN : 25000
+  INFO :: 3 constituent bloom filters initialized in the FBF
+  INFO :: FBFs initialized
+
+  INFO :: Starting the refresh FBF thread
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+
+Finished inserting test elements
+Stopping FBF threads INFO :: Time elapsed in for loop: 10.0429
+ INFO :: Rate of insertion: 497.866 per second
+ RESULT :: Effective FPR: 0.0517207
+ -----------------------------------------------------------
+
+ ----------------------------------------------------------- 
+ INFO :: Test Execution Info 
+ INFO :: NUMBER OF ELEMENTS: 5000
+ INFO :: REFRESH RATE: 3
+ INFO :: BATCH OPERATIONS: 1000
+
+ INFO :: NUMBER OF HASHES CHOSEN : 5
+
+ INFO :: TABLE SIZE IN BYTES: 200000
+
+ INFO :: TABLE SIZE CHOSEN : 25000
+  INFO :: 3 constituent bloom filters initialized in the FBF
+  INFO :: FBFs initialized
+
+  INFO :: Starting the refresh FBF thread
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+
+Finished inserting test elements
+Stopping FBF threads INFO :: Time elapsed in for loop: 10.0347
+ INFO :: Rate of insertion: 498.271 per second
+ RESULT :: Effective FPR: 0.0192328
+ -----------------------------------------------------------
+
+ ----------------------------------------------------------- 
+ INFO :: Test Execution Info 
+ INFO :: NUMBER OF ELEMENTS: 5000
+ INFO :: REFRESH RATE: 2
+ INFO :: BATCH OPERATIONS: 1000
+
+ INFO :: NUMBER OF HASHES CHOSEN : 5
+
+ INFO :: TABLE SIZE IN BYTES: 200000
+
+ INFO :: TABLE SIZE CHOSEN : 25000
+  INFO :: 3 constituent bloom filters initialized in the FBF
+  INFO :: FBFs initialized
+
+  INFO :: Starting the refresh FBF thread
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+
+Finished inserting test elements
+Stopping FBF threads INFO :: Time elapsed in for loop: 10.0466
+ INFO :: Rate of insertion: 497.68 per second
+ RESULT :: Effective FPR: 0.00410466
+ -----------------------------------------------------------
+
+ ----------------------------------------------------------- 
+ INFO :: Test Execution Info 
+ INFO :: NUMBER OF ELEMENTS: 5000
+ INFO :: REFRESH RATE: 1
+ INFO :: BATCH OPERATIONS: 1000
+
+ INFO :: NUMBER OF HASHES CHOSEN : 5
+
+ INFO :: TABLE SIZE IN BYTES: 200000
+
+ INFO :: TABLE SIZE CHOSEN : 25000
+  INFO :: 3 constituent bloom filters initialized in the FBF
+  INFO :: FBFs initialized
+
+  INFO :: Starting the refresh FBF thread
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+
+Finished inserting test elements
+Stopping FBF threads INFO :: Time elapsed in for loop: 10.0498
+ INFO :: Rate of insertion: 497.523 per second
+ RESULT :: Effective FPR: 0.000391427
+ -----------------------------------------------------------
+
+ ----------------------------------------------------------- 
+ INFO :: Test Execution Info 
+ INFO :: NUMBER OF ELEMENTS: 5000
+ INFO :: REFRESH RATE: 20
+ INFO :: BATCH OPERATIONS: 1250
+
+ INFO :: NUMBER OF HASHES CHOSEN : 5
+
+ INFO :: TABLE SIZE IN BYTES: 200000
+
+ INFO :: TABLE SIZE CHOSEN : 25000
+  INFO :: 3 constituent bloom filters initialized in the FBF
+  INFO :: FBFs initialized
+
+  INFO :: Starting the refresh FBF thread
+  INFO :: Refreshed FBF
+
+Finished inserting test elements
+Stopping FBF threads INFO :: Time elapsed in for loop: 8.03512
+ INFO :: Rate of insertion: 622.268 per second
+ RESULT :: Effective FPR: 0.100925
+ -----------------------------------------------------------
+
+ ----------------------------------------------------------- 
+ INFO :: Test Execution Info 
+ INFO :: NUMBER OF ELEMENTS: 5000
+ INFO :: REFRESH RATE: 10
+ INFO :: BATCH OPERATIONS: 1250
+
+ INFO :: NUMBER OF HASHES CHOSEN : 5
+
+ INFO :: TABLE SIZE IN BYTES: 200000
+
+ INFO :: TABLE SIZE CHOSEN : 25000
+  INFO :: 3 constituent bloom filters initialized in the FBF
+  INFO :: FBFs initialized
+
+  INFO :: Starting the refresh FBF thread
+  INFO :: Refreshed FBF
+
+Finished inserting test elements
+Stopping FBF threads INFO :: Time elapsed in for loop: 8.03854
+ INFO :: Rate of insertion: 622.003 per second
+ RESULT :: Effective FPR: 0.100925
+ -----------------------------------------------------------
+
+ ----------------------------------------------------------- 
+ INFO :: Test Execution Info 
+ INFO :: NUMBER OF ELEMENTS: 5000
+ INFO :: REFRESH RATE: 5
+ INFO :: BATCH OPERATIONS: 1250
+
+ INFO :: NUMBER OF HASHES CHOSEN : 5
+
+ INFO :: TABLE SIZE IN BYTES: 200000
+
+ INFO :: TABLE SIZE CHOSEN : 25000
+  INFO :: 3 constituent bloom filters initialized in the FBF
+  INFO :: FBFs initialized
+
+  INFO :: Starting the refresh FBF thread
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+
+Finished inserting test elements
+Stopping FBF threads INFO :: Time elapsed in for loop: 8.03901
+ INFO :: Rate of insertion: 621.967 per second
+ RESULT :: Effective FPR: 0.0197069
+ -----------------------------------------------------------
+
+ ----------------------------------------------------------- 
+ INFO :: Test Execution Info 
+ INFO :: NUMBER OF ELEMENTS: 5000
+ INFO :: REFRESH RATE: 3
+ INFO :: BATCH OPERATIONS: 1250
+
+ INFO :: NUMBER OF HASHES CHOSEN : 5
+
+ INFO :: TABLE SIZE IN BYTES: 200000
+
+ INFO :: TABLE SIZE CHOSEN : 25000
+  INFO :: 3 constituent bloom filters initialized in the FBF
+  INFO :: FBFs initialized
+
+  INFO :: Starting the refresh FBF thread
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+
+Finished inserting test elements
+Stopping FBF threads INFO :: Time elapsed in for loop: 8.03629
+ INFO :: Rate of insertion: 622.177 per second
+ RESULT :: Effective FPR: 0.0191513
+ -----------------------------------------------------------
+
+ ----------------------------------------------------------- 
+ INFO :: Test Execution Info 
+ INFO :: NUMBER OF ELEMENTS: 5000
+ INFO :: REFRESH RATE: 2
+ INFO :: BATCH OPERATIONS: 1250
+
+ INFO :: NUMBER OF HASHES CHOSEN : 5
+
+ INFO :: TABLE SIZE IN BYTES: 200000
+
+ INFO :: TABLE SIZE CHOSEN : 25000
+  INFO :: 3 constituent bloom filters initialized in the FBF
+  INFO :: FBFs initialized
+
+  INFO :: Starting the refresh FBF thread
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+
+Finished inserting test elements
+Stopping FBF threads INFO :: Time elapsed in for loop: 8.0396
+ INFO :: Rate of insertion: 621.921 per second
+ RESULT :: Effective FPR: 0.0100436
+ -----------------------------------------------------------
+
+ ----------------------------------------------------------- 
+ INFO :: Test Execution Info 
+ INFO :: NUMBER OF ELEMENTS: 5000
+ INFO :: REFRESH RATE: 1
+ INFO :: BATCH OPERATIONS: 1250
+
+ INFO :: NUMBER OF HASHES CHOSEN : 5
+
+ INFO :: TABLE SIZE IN BYTES: 200000
+
+ INFO :: TABLE SIZE CHOSEN : 25000
+  INFO :: 3 constituent bloom filters initialized in the FBF
+  INFO :: FBFs initialized
+
+  INFO :: Starting the refresh FBF thread
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+  INFO :: Refreshed FBF
+
+Finished inserting test elements
+Stopping FBF threads INFO :: Time elapsed in for loop: 8.0286
+ INFO :: Rate of insertion: 622.773 per second
+ RESULT :: Effective FPR: 0.000610034
+ -----------------------------------------------------------
+

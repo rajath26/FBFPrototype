@@ -1,0 +1,24 @@
+3,0.000770665
+4,0.000208763
+5,7.07264e-05
+6,2.8436e-05
+7,1.3114e-05
+8,6.77294e-06
+9,3.84818e-06
+10,2.37246e-06
+11,1.56986e-06
+12,1.10505e-06
+13,8.21435e-07
+14,6.40833e-07
+15,5.21935e-07
+16,4.41797e-07
+17,3.87133e-07
+18,3.49975e-07
+TEST PARAMETERS
+Number of bloom filters in FBF,3
+Number of insertions, 600
+Number of bits in filters,6250
+Refresh Rate,5
+Batch Operations,200
+Invalid check,200000
+
